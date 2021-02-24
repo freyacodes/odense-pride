@@ -6,10 +6,10 @@
         <path id="circlePathLower" d="M -242, -150 m 230, 0 a 115,115 0 0,0 -276,0" stroke="transparent"
               stroke-width="3" transform="scale(-1, -1) translate(0, 0)"/>
         <text fill="#fff" font-size="32px" text-anchor="middle">
-            <textPath xlink:href="#circlePath" startOffset="50%">Odense Pride</textPath>
+            <textPath xlink:href="#circlePath" startOffset="50%" font-family="DejaVu Sans">Odense Pride</textPath>
         </text>
         <text fill="#fff" font-size="32px" text-anchor="middle">
-            <textPath xlink:href="#circlePathLower" startOffset="50%">15. maj 2021</textPath>
+            <textPath xlink:href="#circlePathLower" startOffset="50%" font-family="DejaVu Sans">15. maj 2021</textPath>
         </text>
         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" width="200px" height="200px" x="50px" y="50px">
             <mask id="mask-1">
