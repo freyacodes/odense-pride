@@ -1,5 +1,4 @@
-Vedtægter for Odense Pride
-==========================
+# Vedtægter for Odense Pride
 
 ## §1 — Foreningens navn, hjemsted og formål
 
