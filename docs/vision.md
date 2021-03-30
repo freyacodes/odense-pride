@@ -1,11 +1,6 @@
-# Odense Pride
-Cumque nobis assumenda at cumque nesciunt non temporibus porro. Recusandae doloremque est ut qui unde. Voluptatibus pariatur in enim dolore amet nobis numquam. Mollitia labore nobis nam eum voluptates.
+# Vision
+Odense Pride er oprettet for at skabe mere plads til at være Queer, og deltage i en international kamp imod diskrimination. Vi er til for at skabe synlighed og tryghed. Vi vil skabe en by hvor alle LGBTQIA+-personer er frie til at elske og leve. Et samfund hvor alle uanset seksualitet, køn, kønsudtryk, hudfarve, religion og ophav kan deltage i samfundet uden at møde had eller diskrimination. Vi forventer derfor også at alle samarbejdspartnere er med til at kæmpe for retten til at være forskellig. Vi tolererer ikke intolerance.
 
-## Lorem
-Eaque voluptatem aut ut. Magnam occaecati nesciunt non omnis voluptatem qui non voluptas. Aperiam et delectus quaerat eveniet. Repellat vitae voluptate quae ipsum.
+Odense Pride er politisk, men partipolitisk uafhængig. Vores primære opgave er at afholde en Pride i Odense hvert år, en politisk fest og demonstration, der fejrer det vi har opnået, og kan udtrykke vores krav for de markante forbedringer der stadig er behov for. Derudover er vores opgave året rundt at skabe rum til at folk kan udforske sin egen seksualitet og køn i trygge rammer.
 
-Eos quos neque corporis pariatur veritatis pariatur voluptas. Dicta quia nisi optio cupiditate placeat. Est voluptatem nulla sunt. Consequatur aut qui sed recusandae rem vel quia.
-
-* Lorem
-* Ipsum
-* Dolor
+Vores vision er at skabe en verden, hvor enhver kan elske og leve - frit og i tryghed.
