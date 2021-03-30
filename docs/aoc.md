@@ -97,14 +97,9 @@ eller begge forpersoner.
 
 5.3.1. Bestyrelsen er bemyndiget til:
 
--   At udpege de tegningsberettigede til jf. 5.3 i fællesskab at kunne
-    > disponere over foreningens formue samt til at tegne foreningen i
-    > økonomiske anliggender
+-   At udpege de tegningsberettigede til jf. 5.3 i fællesskab at kunne disponere over foreningens formue samt til at tegne foreningen i  økonomiske anliggender
 
--   At udpege et eller flere bestyrelsesmedlemmer til jf. 5.3 samt 5.4
-    > alene eller i fællesskab at kunne disponere over foreningens
-    > midler via elektroniske bankprodukter samt til at indgå kontrakter
-    > herom.
+-   At udpege et eller flere bestyrelsesmedlemmer til jf. 5.3 samt 5.4 alene eller i fællesskab at kunne disponere over foreningens  midler via elektroniske bankprodukter samt til at indgå kontrakter  herom.
 
 5.4 Foreningen hæfter kun for sine forpligtelser med den til enhver tid
 tilhørende formue. Der påhviler ikke foreningens medlemmer eller
