@@ -85,11 +85,11 @@ body {
 }
 
 .page-button[href="/board"] .page-button-inner {
-    background-color: #008026;
+    background-color: #058d2d;
 }
 
 .page-button[href="/history"] .page-button-inner {
-    background-color: #004dff;
+    background-color: #1E62FF;
 }
 
 /**
