@@ -28,7 +28,7 @@ body {
     display: flex;
     flex-direction: column-reverse;
     width: 100%;
-    min-height: calc(100% - 250px - 10px);
+    min-height: calc(100% - 250px);
 }
 
 .page {
