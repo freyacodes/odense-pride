@@ -38,6 +38,7 @@ body {
     padding: 16px 32px 16px 32px;
     line-height: 1.5;
     font-family: sans-serif;
+    z-index: 2;
 }
 
 .page-button-container {
