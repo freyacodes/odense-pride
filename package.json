@@ -1,0 +1,16 @@
+{
+  "name": "odense-pride",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "author": "Freya Arbjerg <freya@arbjerg.dev>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "fs-extra": "^9.1.0",
+    "marked": "^2.0.1"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
