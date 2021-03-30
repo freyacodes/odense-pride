@@ -20,6 +20,7 @@ fs.readdirSync(util.docsDir).forEach((fileName) => {
     if (titleMatch !== null && titleMatch.length >= 2) {
         title = titleMatch[1].trim()
     }
+    $("#page").html(content);
     const description = $("#page p:first-of-type").text();
 
     const head = $("head");
@@ -28,8 +29,6 @@ fs.readdirSync(util.docsDir).forEach((fileName) => {
     head.append($(`<meta property="og:type" content="article" />`));
     head.append($(`<meta property="og:description" content="${description}"/>`));
     head.append($(`<title>${title}</title>`));
-
-    $("#page").html(content);
 
 
     fs.writeFileSync(util.buildDir + fileName.replace(".md", ".html"), $.html());
