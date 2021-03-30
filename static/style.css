@@ -1,0 +1,87 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-color: #99777a;
+}
+
+.page-width {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 1000px;
+    height: 100vh;
+}
+
+.logo {
+    margin: 25px auto 25px auto;
+    width: 200px;
+    height: 200px;
+}
+
+.logo img {
+    width: 200px;
+    height: 200px;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    min-height: calc(100% - 250px - 10px);
+}
+
+.page {
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    height: calc(100%);
+    z-index: 10;
+}
+
+.page-button-container {
+    display: flex;
+}
+
+.page-button {
+    display: block;
+    background-color: black;
+    margin-left: 16px;
+    text-decoration: none !important;
+    z-index: 1;
+}
+
+.page-button:hover {
+    position: relative;
+    left: 2px;
+    top: 2px;
+}
+
+.page-button-inner {
+    background-color: rgb(238, 238, 238);
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 6px;
+    padding: 4px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
+
+.page-button[href="/"] .page-button-inner { background-color: #e40303; }
+.page-button[href="/vision"] .page-button-inner { background-color: #ff8c00; }
+.page-button[href="/aoc"] .page-button-inner { background-color: #ffed00; }
+.page-button[href="/board"] .page-button-inner { background-color: #008026; }
+.page-button[href="/history"] .page-button-inner { background-color: #004dff; }
+
+/**
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 777 480">
+	<rect fill="#750787" width="777" height="480"/>
+	<rect fill="#004dff" width="777" height="400"/>
+	<rect fill="#008026" width="777" height="320"/>
+	<rect fill="#ffed00" width="777" height="240"/>
+	<rect fill="#ff8c00" width="777" height="160"/>
+	<rect fill="#e40303" width="777" height="80"/>
+</svg>
+ */
