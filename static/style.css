@@ -72,23 +72,23 @@ body {
     color: black;
 }
 
-.page-button[href="/"] .page-button-inner {
+.page-button[href$="/"] .page-button-inner {
     background-color: #e40303;
 }
 
-.page-button[href="/vision"] .page-button-inner {
+.page-button[href$="/vision"] .page-button-inner {
     background-color: #ff8c00;
 }
 
-.page-button[href="/articles-of-association"] .page-button-inner {
+.page-button[href$="/articles-of-association"] .page-button-inner {
     background-color: #ffed00;
 }
 
-.page-button[href="/board"] .page-button-inner {
+.page-button[href$="/board"] .page-button-inner {
     background-color: #058d2d;
 }
 
-.page-button[href="/history"] .page-button-inner {
+.page-button[href$="/history"] .page-button-inner {
     background-color: #1E62FF;
 }
 
