@@ -43,6 +43,12 @@ body {
 
 .page-button-container {
     display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.page-buttons {
+    display: flex;
 }
 
 .page-button {
@@ -86,6 +92,15 @@ body {
 
 .page-button[href$="/board"] .page-button-inner {
     background-color: #058d2d;
+}
+
+.language-button {
+    margin: 4px 8px 0 4px;
+}
+
+.language-button > img {
+    width: 30px;
+    border: black 1px solid;
 }
 
 .page-button[href$="/history"] .page-button-inner {
