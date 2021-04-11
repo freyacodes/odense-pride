@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="da">
+<html lang="%LANG%">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -9,10 +9,11 @@
     <meta name="theme-color" content="#99777a">
     <meta property="og:site_name" content="Odense Pride"/>
     <meta property="og:image" content="/logo.png"/>
+    <title>Odense Pride</title>
 </head>
 <body>
     <div class="page-width">
-        <a class="logo" href="/"><img src="logo.svg"/></a>
+        <a class="logo" href="/"><img src="/logo.svg"/></a>
         <div class="page-container">
             <!-- This is reversed because button container must render below page -->
             <div id="page">
@@ -26,11 +27,11 @@
             </div>
 
             <div class="page-button-container">
-                <a class="page-button" href="/"><div class="page-button-inner">Priden</div></a>
-                <a class="page-button" href="/vision"><div class="page-button-inner">Vision</div></a>
-                <a class="page-button" href="/articles-of-association"><div class="page-button-inner">Vedtægter</div></a>
-                <a class="page-button" href="/board"><div class="page-button-inner">Bestyrelsen</div></a>
-                <a class="page-button" href="/history"><div class="page-button-inner">Historie</div></a>
+                <a class="page-button" href="/%LANG%/"><div class="page-button-inner">Priden</div></a>
+                <a class="page-button" href="/%LANG%/vision"><div class="page-button-inner">Vision</div></a>
+                <a class="page-button" href="/%LANG%/articles-of-association"><div class="page-button-inner">Vedtægter</div></a>
+                <a class="page-button" href="/%LANG%/board"><div class="page-button-inner">Bestyrelsen</div></a>
+                <a class="page-button" href="/%LANG%/history"><div class="page-button-inner">Historie</div></a>
             </div>
         </div>
     </div>
