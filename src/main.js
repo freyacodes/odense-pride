@@ -10,9 +10,18 @@ fs.copySync(util.staticDir, util.buildDir)
 console.log("Cleaned build dir")
 
 function generateSite(lang, otherLang) {
-    const baseSrc = fs.readFileSync(util.templateBase)
+    let baseSrc = fs.readFileSync(util.templateBase)
         .toString()
         .replace(/%LANG%/g, lang)
+        .replace(/%OTHER_LANG%/g, otherLang)
+
+    if (lang === "en") {
+        baseSrc = baseSrc.replace("Priden", "The Pride")
+            .replace("Vedtægter", "Articles of Association")
+            .replace("Bestyrelsen", "The Board")
+            .replace("Historie", "History")
+    }
+
     const langBuildDir = util.buildDir + "/" + lang + "/";
     fs.mkdirpSync(langBuildDir);
     fs.readdirSync(util.docsDir).forEach((fileName) => {
