@@ -1,10 +1,2 @@
-[[redirects]]
-  from = "/"
-  to = "/en"
-  status = 302
-  conditions = {Language = ["en"]}
-
-[[redirects]]
-  from = "/"
-  to = "/da"
-  status = 302
+/ /en 302 language=en
+/ /da 302
