@@ -9,6 +9,29 @@ fs.removeSync(util.buildDir)
 fs.copySync(util.staticDir, util.buildDir)
 console.log("Cleaned build dir")
 
+const files = {
+    da: {},
+    en: {}
+}
+
+// Discover files
+fs.readdirSync(util.docsDir).forEach((fileName) => {
+    const lang = fileName.endsWith(".en.md") ? "en" : "da";
+    const name = fileName.replace(".en.md", "").replace(".md", "");
+    files[lang][name] = {
+        name: name,
+        fileName: fileName,
+        lang: lang
+    };
+});
+
+// Discover missing English pages
+const englishNames = Object.keys(files.en)
+const untranslated = Object.keys(files.da).filter((s) => englishNames.indexOf(s) < 0)
+untranslated.forEach((name) => {
+    files.en[name] = Object.assign({}, files.da[name])
+})
+
 function generateSite(lang, otherLang) {
     let baseSrc = fs.readFileSync(util.templateBase)
         .toString()
@@ -24,7 +47,11 @@ function generateSite(lang, otherLang) {
 
     const langBuildDir = util.buildDir + "/" + lang + "/";
     fs.mkdirpSync(langBuildDir);
-    fs.readdirSync(util.docsDir).forEach((fileName) => {
+    for (let num in files[lang]) {
+        if (!files[lang].hasOwnProperty(num)) continue
+        const page = files[lang][num]
+
+        const fileName = page.fileName
         const markdown = fs.readFileSync(util.docsDir + fileName).toString()
         const content = marked(markdown)
         const $ = cheerio.load(baseSrc)
@@ -44,8 +71,12 @@ function generateSite(lang, otherLang) {
         head.append($(`<meta property="og:description" content="${description}"/>`));
         head.append($(`<title>${title}</title>`));
 
-        fs.writeFileSync(langBuildDir + fileName.replace(".md", ".html"), $.html());
-    })
+        let html = $.html()
+            .replace(/%PATH%/g, page.name)
+            .replace(/%MD_LANG%/g, page.lang)
+
+        fs.writeFileSync(langBuildDir + page.name + ".html", html);
+    }
 }
 
 generateSite("da", "en")
