@@ -1,11 +1,6 @@
 # Odense Pride
-Cumque nobis assumenda at cumque nesciunt non temporibus porro. Recusandae doloremque est ut qui unde. Voluptatibus pariatur in enim dolore amet nobis numquam. Mollitia labore nobis nam eum voluptates.
+Det er tid til Odenses første Pride! Vær med til at gøre Odense mere Queer og kæmpe for kærlighed og tolerance, når vi går fra Flakhaven(rådhuspladsen) langs en rute mod Kongens Have, hvor der vil være boder, kunstnere og musik.
 
-## Lorem
-Eaque voluptatem aut ut. Magnam occaecati nesciunt non omnis voluptatem qui non voluptas. Aperiam et delectus quaerat eveniet. Repellat vitae voluptate quae ipsum.
+Vi holder løbende øje med corona-situationen for at sikre at der er nødvendige sikkerhedsforanstaltninger, men find gerne jeres flotteste mundbind frem!
 
-Eos quos neque corporis pariatur veritatis pariatur voluptas. Dicta quia nisi optio cupiditate placeat. Est voluptatem nulla sunt. Consequatur aut qui sed recusandae rem vel quia.
-
-* Lorem
-* Ipsum
-* Dolor
+Denne begivenhed vil løbende blive opdateret når der kommer flere detaljer om kunstnere, rute, samarbejdspartnere og mere, men hold dagen fri i kalenderen! Vi er et nystartet inititativ, og vi er stadig i gang med at udarbejde og planlægge Pride'n, vil du være med? Så skriv til [odensepride@gmail.com](mailto://odensepride@gmail.com) og hør mere om hvordan du kan hjælpe. Vi søger både frivillige, sponsorer, samarbejdspartnere der vil holde events og mere. 

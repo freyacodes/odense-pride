@@ -1,0 +1,6 @@
+# Our Mission
+Odense Pride has been established to make more space to be queer and participate in an international fight against discrimination. We exist to create visibility and safety. Our mission is to shape a city where all LGBTQIA+ people are free to love and live. A society where everyone regardless of sexuality, gender, gender expression, ethnicity, religion, and background can participate in our society without encountering discrimination or hate. We therefore expect every single one of our collaborators to be willing to fight for the right to be different. We do not tolerate intolerance.
+
+Odense Pride is political but not party political. Our primary objective is to organize a Pride in Odense every year. A political party and demonstration that celebrates what we have achieved and where we are able to express our demands for the significant improvements that are still in demand. Additionally it is our job to make room for people to be able to explore their own sexuality and gender in safe conditions.
+
+Our aspiration is to achieve a world where everyone can love and live in freedom and safety.
