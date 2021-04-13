@@ -209,3 +209,9 @@ h5 {
     font-size: 1.2em;
     font-weight: normal;
 }
+
+#page .translation-warning {
+    width: calc(100% - 16px);
+    padding: 8px;
+    background-color: #eed8ba;
+}

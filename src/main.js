@@ -71,6 +71,10 @@ function generateSite(lang, otherLang) {
         head.append($(`<meta property="og:description" content="${description}"/>`));
         head.append($(`<title>${title}</title>`));
 
+        if (lang !== page.lang) {
+            $("#page").prepend($(`<div class="translation-warning">This page has not been translated</div>`))
+        }
+
         let html = $.html()
             .replace(/%PATH%/g, page.name)
             .replace(/%MD_LANG%/g, page.lang)
