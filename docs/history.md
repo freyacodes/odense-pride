@@ -1,11 +1,6 @@
-# Odense Pride
-Cumque nobis assumenda at cumque nesciunt non temporibus porro. Recusandae doloremque est ut qui unde. Voluptatibus pariatur in enim dolore amet nobis numquam. Mollitia labore nobis nam eum voluptates.
+# Historie om Pride
+Den 28. juni 1969 indledte politiet en razzia mod Stonewall Inn i New York, en bar hvor medlemmer af LGBT+ miljøet holdt til, fordi der var få andre steder at være til. Politiet dukkede ofte uanmeldt op, men denne gang var første gang, Stonewalls gæster kæmpede igen. Drag queens, transkønnede, lesbiske og bøsser blev på voldsom vis trukket ind i salatfade. Da den lesbiske aktivist Stormé DeLarverie beklagede sig over for stramme håndjern og råbte ”Do something!”, begyndte optøjerne, og folk begyndte at kaste småmønter mod politiet. 
 
-## Lorem
-Eaque voluptatem aut ut. Magnam occaecati nesciunt non omnis voluptatem qui non voluptas. Aperiam et delectus quaerat eveniet. Repellat vitae voluptate quae ipsum.
+Den transkønnede aktivist Marsha P. Johnson var også med til at indlede oprøret, der førte til en fem dage lang protest og demonstration for LGBT+ personers rettigheder og frihed fra undertrykkelse. Dette var første gang, miljøet for alvor kæmpede for sine rettigheder i et homo- og transfobisk samfund. Året efter fejrede man i New York, Los Angeles og Chicago årsdagen for oprøret, og det er det, man i dag ville kalde den første Pride. Det markerede starten på kampen for LGBT+ frigørelse i USA, såvel som i verden. I Danmark blev den første Pride afholdt i 1996 i København under Kulturby ’96, og hed fra 2004 Copenhagen Pride. 
 
-Eos quos neque corporis pariatur veritatis pariatur voluptas. Dicta quia nisi optio cupiditate placeat. Est voluptatem nulla sunt. Consequatur aut qui sed recusandae rem vel quia.
-
-* Lorem
-* Ipsum
-* Dolor
+På mange måder er det den kamp, man i 1969 indledte, som vi i dag stadig kæmper, når vi fejrer Pride. Det er en fejring af, hvor langt vi er kommet, men også en markering af, at der stadig er meget at kæmpe for og lang vej igen. 
