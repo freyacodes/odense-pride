@@ -94,6 +94,15 @@ body {
     background-color: #058d2d;
 }
 
+.page-button[href$="/history"] .page-button-inner {
+    background-color: #1E62FF;
+}
+
+.language-page-button .page-button-inner {
+    background-color: #750787;
+    display: none;
+}
+
 .language-button {
     margin: 4px 8px 0 4px;
 }
@@ -101,10 +110,6 @@ body {
 .language-button > img {
     width: 30px;
     border: black 1px solid;
-}
-
-.page-button[href$="/history"] .page-button-inner {
-    background-color: #1E62FF;
 }
 
 /**
@@ -214,4 +219,46 @@ h5 {
     width: calc(100% - 16px);
     padding: 8px;
     background-color: #eed8ba;
+}
+
+@media screen and (max-width: 820px) {
+    .page-width {
+        justify-content: normal;
+    }
+
+    .page {
+        flex-grow: 1;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .language-button {
+        display: none;
+    }
+
+    .page-buttons {
+        display: block;
+    }
+
+    .page-button {
+        width: calc(100vw - 6px);
+        margin: 0;
+        padding-top: 6px;
+        padding-left: 6px;
+    }
+
+    .page-button:hover {
+        left: 0;
+        top: 0;
+    }
+
+    .page-button-inner {
+        margin: 0;
+    }
+
+    .language-page-button .page-button-inner {
+        display: block;
+    }
 }

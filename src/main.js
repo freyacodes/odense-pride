@@ -37,6 +37,7 @@ function generateSite(lang, otherLang) {
         .toString()
         .replace(/%LANG%/g, lang)
         .replace(/%OTHER_LANG%/g, otherLang)
+        .replace(/%OTHER_LANG_NAME%/g, otherLang === "da" ? "Dansk" : "English")
 
     if (lang === "en") {
         baseSrc = baseSrc.replace("Priden", "The Pride")
